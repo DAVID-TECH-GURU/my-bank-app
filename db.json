@@ -1,0 +1,40 @@
+{
+    "transactions": [
+      {
+        "id": 1,
+        "date": "2022-04-22",
+        "description": "Groceries",
+        "category": "Food",
+        "amount": -50
+      },
+      {
+        "id": 2,
+        "date": "2022-04-21",
+        "description": "Salary",
+        "category": "Income",
+        "amount": 1000
+      },
+      {
+        "id": 3,
+        "date": "2022-04-20",
+        "description": "Gas",
+        "category": "Transportation",
+        "amount": -30
+      },
+      {
+        "id": 4,
+        "date": "2022-04-19",
+        "description": "Restaurant",
+        "category": "Food",
+        "amount": -75
+      },
+      {
+        "id": 5,
+        "date": "2022-04-18",
+        "description": "Phone bill",
+        "category": "Utilities",
+        "amount": -80
+      }
+    ]
+  }
+  
